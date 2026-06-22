@@ -9,13 +9,6 @@
 
   </div>
 
-
-### 💻 About Me
-
-- 🔭 I'm a **developer** who is also a **gamer** — and I happen to use the same ID for both
-- 🎮 My in-game handle is `nonu1l`, same as my GitHub
-- 🙋 See this name somewhere? That's definitely me
-
 ### ✨ My Approach
 
 - ✨ **Build fun little projects** — keep it playful, keep it shipping
